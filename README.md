@@ -1,4 +1,4 @@
-# Firebase custom errors
+# Firebase JS SDK custom errors messages
 
 This repo aims to show local error messages to user when an exception occurs. Feel 
 free to add  translation of your language.
