@@ -18,3 +18,5 @@ const firebaseErrors = {
      alert(firebaseErrors[error.code] || error.message);
   })
 ```
+
+[Here](https://firebase.google.com/docs/reference/js/firebase.auth.Auth#methods_1) is the list of JS SKD methods and error messages.
